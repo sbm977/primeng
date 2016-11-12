@@ -27,3 +27,5 @@ components/**/*.metadata.json
 # misc 
 *.log
 .DS_STORE
+
+.idea
